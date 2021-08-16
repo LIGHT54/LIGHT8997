@@ -74,6 +74,6 @@ const menulogos = (prefix) => {
 ◆◇ ${prefix}luxury (txt)      
 ◆◇ ${prefix}steel (txt)  
 ◆◇
-━━━❮ ${NamaBot} ❯━━━`
+━━━❮ ${LIGHT-BOT} ❯━━━`
 }
 exports.menulogos = menulogos
