@@ -7,7 +7,7 @@ return `
 ║╠ ${prefix}destrava
 ║╠ ${prefix}premiumlist
 ║╚▸
-╚════ ◤ *${NamaBot}* ◢
+╚════ ◤ *${LIGHT-BOT}* ◢
 `
 }
 
