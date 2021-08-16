@@ -23,7 +23,7 @@ const adms = (prefix) => {
 ◆◇ ${prefix}bemvindo 1 / 0
 ◆◇ ${prefix}simih 1 / 0
 ◆◇
-━━━━❮ ${NamaBot} ❯━━━━`
+━━━━❮ ${LIGHT BOT} ❯━━━━`
 
 }
 exports.adms = adms
