@@ -1,7 +1,7 @@
 const owner = (prefix, ownerNumber, NamaBot) => {
 	return`
 
-╔════ ◤ *INFORMAÇÕES OWNER/BOT*◢
+╔════ ◤ *INFORMACION OWNER/BOT*◢
 ║╔▸ 
 ║╠ *Nome* :「 ${NamaOwner} 」
 ║╠ *Proprietário*: ${ownerNumber} 
