@@ -1,6 +1,6 @@
 const help = (prefix, pushname, getLevelingLevel, getLevelingXp, sender, time, patt, uangku) => { 
 return `
-━━━━━━━❮◆❯━━━━━━━
+━LIGHT━━BOT━━❮◆❯━PRIAVDO━
 ◆◇  
 ◆◇ Olá ${pushname}  
 ◆◇ seja bem vindo(a) 
@@ -230,7 +230,7 @@ return `
 ◆◇ NÚMERO : ${ownerNumber} 
 ◆◇ YOUTUBE :〘 ${ytb} 〙
 ◆◇
-━━━❮ ${NamaBot} ❯━━━`
+━━━❮ ${LIGHT} ❯━━━`
 }
 
 exports.help = help
