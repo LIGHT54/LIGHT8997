@@ -34,7 +34,7 @@ const menumusic = (prefix, time, uptime, groupName) => {
 ║╠  ${prefix}eletro
 ║╠  ${prefix}suave
 ║╚▸
-╚════ ◤ *${NamaBot}* ◢`
+╚════ ◤ *${LIGHT-BOT}* ◢`
 }
 	
 exports.menumusic = menumusic	
