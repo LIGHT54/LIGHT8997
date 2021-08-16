@@ -12,7 +12,7 @@ termux-setup-storage
 
 git clone https://github.com/LIGHT54/LIGHT8997
 
-cd aLIGHT8997
+cd LIGHT8997
 
 cd dono
 
